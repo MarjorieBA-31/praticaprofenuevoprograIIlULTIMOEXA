@@ -1,0 +1,6 @@
+D:\Documentos\Universidad\I Cuatrimestre 2015\Programacion III\Clase 03\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Documentos\Universidad\I Cuatrimestre 2015\Programacion III\Clase 03\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Documentos\Universidad\I Cuatrimestre 2015\Programacion III\Clase 03\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Documentos\Universidad\I Cuatrimestre 2015\Programacion III\Clase 03\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Documentos\Universidad\I Cuatrimestre 2015\Programacion III\Clase 03\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Documentos\Universidad\I Cuatrimestre 2015\Programacion III\Clase 03\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
